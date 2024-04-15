@@ -5,10 +5,10 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 ## Tecnologías Utilizadas
 
-- **PHP:** Lenguaje de script del lado del servidor utilizado para el desarrollo web.
-- **MySQL:** Sistema de gestión de base de datos utilizado para almacenar datos de usuario.
-- **HTML & CSS:** Utilizados para estructurar y dar estilo a las páginas web.
-- **Tailwind CSS:** Un framework de CSS utilitario para el desarrollo rápido de interfaces de usuario.
+- **PHP(Hypertext Preprocessor):** PHP es un lenguaje de programación de código abierto ampliamente utilizado para el desarrollo de aplicaciones web del lado del servidor. Permite la creación dinámica de contenido web, la interacción con bases de datos y la gestión de sesiones de usuario, entre otras funcionalidades. PHP se ejecuta en el servidor y genera HTML que se envía al navegador del usuario.
+- **MySQL:** MySQL es un sistema de gestión de bases de datos relacional (RDBMS) de código abierto. Es ampliamente utilizado en aplicaciones web para almacenar y gestionar datos de manera eficiente. MySQL utiliza el lenguaje SQL (Structured Query Language) para realizar consultas y manipular datos en la base de datos.
+- **HTML(Hypertext Markup Language) & CSS(Cascading Style Sheets):** HTML es el lenguaje estándar utilizado para crear y estructurar el contenido de páginas web. Define la estructura y el significado del contenido mediante etiquetas y elementos. CSS, por otro lado, se utiliza para dar estilo y diseño a las páginas web. Permite controlar aspectos como el color, el diseño, la tipografía y el espaciado del contenido HTML.
+- **Tailwind CSS:** - **HTML(Hypertext Markup Language) & CSS(Cascading Style Sheets):** HTML es el lenguaje estándar utilizado para crear y estructurar el contenido de páginas web. Define la estructura y el significado del contenido mediante etiquetas y elementos. CSS, por otro lado, se utiliza para dar estilo y diseño a las páginas web. Permite controlar aspectos como el color, el diseño, la tipografía y el espaciado del contenido HTML.Tailwind CSS es un framework de CSS utilitario que facilita el desarrollo rápido y la construcción de interfaces de usuario personalizadas. A diferencia de otros frameworks CSS que utilizan clases predefinidas, Tailwind CSS proporciona una amplia gama de clases utilitarias que se aplican directamente al HTML para estilizar los elementos. Esto ofrece un alto grado de flexibilidad y control sobre el diseño de la interfaz de usuario sin la necesidad de escribir CSS personalizado.
 
 ## Páginas y Funcionalidades
 
